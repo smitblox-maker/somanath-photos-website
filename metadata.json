@@ -1,0 +1,6 @@
+{
+  "name": "Somnath Photos | Luxury Photography & Cinematography Studio",
+  "description": "Official website for Somnath Photos & Somnath Photography by Bipin Makwana. Cinematic wedding, pre-wedding, event, and portrait photography with golden elegance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
